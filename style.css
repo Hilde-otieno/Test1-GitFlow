@@ -1,0 +1,21 @@
+#container{
+    padding: 10px;
+    margin:5%;
+    height: 800px;
+    width:1200px;
+    border:rgb(245, 225, 229);
+    border-radius:5px;
+    background-color: rgb(252, 225, 229);
+}
+#class{
+    padding:6%;
+    margin: 4%;
+    height: 500px;
+    border: aliceblue;
+    border-radius:40px;
+    background-color: aliceblue;
+}
+#nav1{
+    text-decoration: none;
+    color: black;
+}
